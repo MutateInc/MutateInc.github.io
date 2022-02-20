@@ -28,7 +28,7 @@ Estandarizar la forma en la que se van a llevar las juntas a nivel departamento 
 
 *Todos los participantes*
 
-1. **Encargado de la junta:** inicia la grabación de la junta (opcional).
+1. **Encargado de la junta:** verifica si es necesario grabar la sesión. Si es el caso, se asegura de que todos los participantes estén de acuerdo e inicia la grabación.
 2. **Encargado de la junta:** sigue la agenda previamente establecida y promueve la participación de todos los invitados.
 3. **Encargado de la minuta:** anota los puntos más importantes de la junta y los acuerdos. Menciona los acuerdos antes del cierre.
 4. **Encargado de la junta:** propone el objetivo de la próxima junta y hace sugeriencias de fechas y horarios (opcional).
