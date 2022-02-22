@@ -7,7 +7,6 @@ Estandarizar la forma en la que se van a llevar las juntas a nivel departamento 
 ## Entradas
 
 - Junta calendarizada con lugar, fecha y hora
-- Objetivo de la junta
 - Acuerdos previos (opcional)
 - Participantes de la junta
 
@@ -17,12 +16,12 @@ Estandarizar la forma en la que se van a llevar las juntas a nivel departamento 
 
 *Organizadores*
 
-1. **Organizadores:** definen las decisiones que se deben tomar en la junta.
-2. **Organizadores:** construyen la agenda asignando un tiempo límite por cada decisión y/o tema a considerar según su prioridad.
+1. **Organizadores:** definen las decisiones/temas a tratar de la junta.
+2. **Organizadores:** construyen la agenda asignando un tiempo límite por cada decisión y/o tema a tratar según su prioridad. Poner la agenda en la sección correspondiente de la minuta.
 3. **Organizadores:** asignan un encargado de la junta para llevar la agenda y un encargado para tomar la minuta.
 4. **Encargado de la junta:** envía la agenda de la junta a los todos los participantes con anticipación (al menos 1 hora antes de la junta).
-    - Junta interna - Discord
-    - Junta externa - Correo electrónico
+   - Junta interna - Discord
+   - Junta externa - Correo electrónico o medio de comunicación preferido
 
 ### Junta
 
