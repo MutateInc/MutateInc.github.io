@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Mutate Blog</title>
+        <link>https://Mutate.github.io/blog</link>
+        <description>Mutate Blog</description>
+        <lastBuildDate>Tue, 01 Mar 2022 01:50:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Minutas Mutate]]></title>
+            <link>https://Mutate.github.io/blog/welcome</link>
+            <guid>/welcome</guid>
+            <pubDate>Tue, 01 Mar 2022 01:50:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

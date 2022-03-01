@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Mutate.github.io/blog</id>
+    <title>Mutate Blog</title>
+    <updated>2022-03-01T01:50:29.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Mutate.github.io/blog"/>
+    <subtitle>Mutate Blog</subtitle>
+    <icon>https://Mutate.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Minutas Mutate]]></title>
+        <id>/welcome</id>
+        <link href="https://Mutate.github.io/blog/welcome"/>
+        <updated>2022-03-01T01:50:29.000Z</updated>
+    </entry>
+</feed>
