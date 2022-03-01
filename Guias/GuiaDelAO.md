@@ -10,7 +10,7 @@ El papel del Architecture Owner (AO) es guiar el desarrollo de la arquitectura d
 
 ## Responsabilidades hacia los integrantes
 
-- Capacitar a los integrantes en cuestiones de herramientas y estándares técnicos
+- Capacitar a los integrantes en cuestiones de herramientas y estándares técnicos.
 - Escuchar opiniones con respecto a preferencias técnicas.
 - Observar la curva de aprendizaje de tecnologías nuevas con fin de apoyar a los que lo necesiten.
 
@@ -20,9 +20,9 @@ El papel del Architecture Owner (AO) es guiar el desarrollo de la arquitectura d
 
 ## Responsabilidades hacia el equipo interno
 
-- Verificar la calidad de la solución y que cumpla con lo establecido con los stakeholders
-- Crear y evaluar constantemente el desarrollo de la arquitectura de la solución en la que se está trabajando
-- Identificar los riesgos que surjan de la estructura de la solución
+- Verificar la calidad de la solución y que cumpla con lo establecido con los stakeholders.
+- Crear y evaluar constantemente el desarrollo de la arquitectura de la solución en la que se está trabajando.
+- Identificar los riesgos que surjan de la estructura de la solución.
 - Colaborar con los Product Owners y los demás integrantes para entender las necesidades técnicas, así igual con las deudas técnicas y el tiempo requerido para resolverlas.
 - Sugerir e investigar sobre frameworks, recursos, etc. para identificar ventajas y desventajas que se alineen con las soluciones de los proyectos para que los equipos puedan tomar decisiones informadas.
 - Capacitar y funcionar como un medio de comunicación entre los integrantes del equipo y la documentación de las tecnologías involucradas.
