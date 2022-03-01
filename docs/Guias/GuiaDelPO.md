@@ -1,0 +1,30 @@
+# Guía del Product Owner
+
+## Objetivos
+
+Describir los requisitos y responsabilidades de los integrantes que ocupan el rol de Product Owner.
+
+## ¿Quién es Product Owner?
+
+El Product Owner es quien representa las necesidades del cliente frente al equipo de desarrollo, para guiar a ambas partes en el desarrollo de una visión común. Identifica y prioriza el trabajo a realizar.
+
+
+## Responsabilidades hacia los integrantes
+
+- Facilita la comunicación entre stakeholders.
+- Da una visión clara de las necesidades del cliente.
+- Negocia el alcance, funcionalidad, y compromisos con base en las necesidades de ambas partes.
+- Comunicar al equipo información pertinente al proyecto de parte del cliente.
+- Monitorea el estado del proyecto respecto a las necesidades del cliente.
+
+## Responsabilidades hacia el departamento
+
+- Comunicar a los Project Managers los acuerdos entre cliente y equipo de desarrollo.
+- Mantener comunicación entre los POs del departamento para recibir retroalimentación.
+- Asegurar que los procesos estén alineados al Requirement Management
+
+## Autores
+- Guillermo Espino
+- Emilio Rivas
+- Nahim Medellín
+
