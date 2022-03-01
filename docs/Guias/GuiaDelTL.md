@@ -31,5 +31,5 @@ El papel de Team Leader (TM) es guiar y dirigir al equipo para que este logre su
 ## Autores
 - Eduardo Cadena
 - Emilio Aguilera
-- Erik Torres
+- Eric Torres
 
