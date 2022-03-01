@@ -1,5 +1,12 @@
 # Plantilla Minuta
 
+```md
+---
+slug: 19-feb-objetivo
+title: 19 Feb - Objetivo
+tags: [hola, docusaurus]
+---
+
 Fecha: dd/mm/aaaa
 
 Equipo - Proyecto
@@ -33,3 +40,4 @@ Equipo - Proyecto
 - Acuerdo 2
 
 - Acuerdo 3
+```
