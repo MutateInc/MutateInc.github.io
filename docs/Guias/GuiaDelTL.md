@@ -27,3 +27,9 @@ El papel de Team Leader (TM) es guiar y dirigir al equipo para que este logre su
 - Identificar obstaculos que pudieran surgir a lo largo del proyecto y buscar la manera de solucionarlos.
 - Motivar y usar las fortalezas individuales de cada miembro del equipo para la solución del proyecto.
 - Establecer un ambiente de confianza, respeto, empatia y comunicación abierta.
+
+## Autores
+- Eduardo Cadena
+- Emilio Aguilera
+- Eric Torres
+
