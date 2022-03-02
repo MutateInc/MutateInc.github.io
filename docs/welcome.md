@@ -30,3 +30,5 @@ y elige la seccion en la que quieras crear tu documento.
 - Instalación: `$ npm i`
 - Ejecutar localmente: `$ npm start`
 - Compilar: `$ npm build`
+
+## ⚠️ Las ramas se deben borrar despues de ser mergeadas
