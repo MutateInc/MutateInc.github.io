@@ -27,7 +27,9 @@ Al momento de redactar este documento se tienen las siguientes propuestas de ben
 Para entender y definir mejor el objetivo a lograr con la solución del cliente es necesario tener claridad con los procesos del cliente relacionados con las necesidades identificadas. Los cuales describiremos a continuación.
 
 **Necesidad 1 (Registro/generación de facturas):**
+
 ```
-===== REGISTRO DE FACTURA ======
     0. [REQUISITO] Se posee una factura que se quiere registrar.
 ```
+
+TO BE CONTINUED...
