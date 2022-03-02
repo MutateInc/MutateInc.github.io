@@ -31,4 +31,7 @@ y elige la seccion en la que quieras crear tu documento.
 - Ejecutar localmente: `$ npm start`
 - Compilar: `$ npm build`
 
-## ⚠️ Las ramas se deben borrar despues de ser mergeadas
+### ⚠️ Las ramas se deben borrar despues de ser mergeadas
+
+## Autores
+- [@BernardoEstrada](https://www.github.com/BernardoEstrada)
