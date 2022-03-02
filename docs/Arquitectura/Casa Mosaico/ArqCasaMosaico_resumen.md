@@ -28,6 +28,6 @@ Para entender y definir mejor el objetivo a lograr con la solución del cliente 
 
 **Necesidad 1 (Registro/generación de facturas):**
 ```
-    0. [REQUISITO] Se posee una factura que se quiere registrar en caso de estar registrando en lugar de emitiendo una factura.
-    1. fefe
+===== REGISTRO DE FACTURA ======
+    0. [REQUISITO] Se posee una factura que se quiere registrar.
 ```
