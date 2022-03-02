@@ -18,7 +18,7 @@ y elige la seccion en la que quieras crear tu minuta.
 - Selecicona Crear una nueva rama e iniciar un PullRequest
 - Nombra la rama usando la sintaxis `minutas/carpeta[/subcarpeta]/documento` (como en el ejemplo) y haz clic en Proponer nuevo archivo
 ![Nombra la rama](/img/docs/welcome/ss2.png)
-  !! No olvides nombrar el archivo en la parte de arriba
+  ⚠️ No olvides nombrar el archivo en la parte de arriba
 
 ### Alternativa (node)
 
