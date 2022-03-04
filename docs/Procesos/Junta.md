@@ -20,7 +20,7 @@ para asegurar su efectividad.
 1. **Organizadores:** definen las decisiones/temas a tratar de la junta.
 2. **Organizadores:** construyen la agenda asignando un tiempo límite por cada
 decisión y/o tema a tratar según su prioridad. Poner la agenda en la sección
-correspondiente de la minuta.
+correspondiente de la [plantilla de minuta](../Plantillas/Minuta.md).
 3. **Organizadores:** asignan un encargado de la junta para llevar la agenda y
 un encargado para tomar la minuta.
 4. **Encargado de la junta:** envía la agenda de la junta a los todos los
