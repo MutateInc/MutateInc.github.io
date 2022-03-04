@@ -12,14 +12,6 @@ jobs:
     environment: github-pages
 
     steps:
-      - name: Start deployment
-        uses: bobheadxi/deployments@v1
-        id: deployment
-        with:
-          step: start
-          token: ${{ secrets.GITHUB_TOKEN }}
-          env: github-pages
-        
       - name: Checkout
         uses: actions/checkout@v1
 
@@ -48,13 +40,3 @@ jobs:
             npm i
           fi
           npm run deploy
-
-      - name: update deployment status
-        uses: bobheadxi/deployments@v1
-        if: always()
-        with:
-          step: finish
-          token: ${{ secrets.GITHUB_TOKEN }}
-          status: ${{ job.status }}
-          env: ${{ steps.deployment.outputs.env }}
-          deployment_id: ${{ steps.deployment.outputs.deployment_id }}
