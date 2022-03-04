@@ -32,7 +32,9 @@ consultores, comunidad de prácticas, áreas de proceso involucradas).
 
 1. **Responsables:** acuden a las fuentes de apoyo de los equipos para
 identificar los elementos esenciales del nuevo proceso.
-2. **Responsables:** redactan el nuevo proceso.
+2. **Responsables:** redactan el nuevo proceso siguiendo la
+[plantilla de proceso](../Plantillas/Proceso.md) y, si es necesario, la
+[guía de creación de procesos](../Guias/CreacionDeProceso.md).
 3. **Responsables:** proponen el proceso en el manual de operaciones
 departamental a través de un pull request.
 4. Continuar a la fase de revisión.
