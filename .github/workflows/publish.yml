@@ -18,7 +18,7 @@ jobs:
         with:
           step: start
           token: ${{ secrets.GITHUB_TOKEN }}
-          env: release
+          env: github-pages
         
       - name: Checkout
         uses: actions/checkout@v1
