@@ -14,7 +14,6 @@ Para cada campo, cada miembro del equipo seleccionó una de 3 opciones con un po
 ```
 
 Finalmente, se calcula un promedio de cada campo y eso se tomará en cuenta como el "Team Knowledge" de cada solución/framework.
-<br>
 
 ## Frameworks Front-end
 
