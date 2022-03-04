@@ -23,7 +23,7 @@ y elige la seccion en la que quieras crear tu documento.
 ### Alternativa (node)
 
 - Alternativamente puedes clonar el repositorio y hacer aportaciones desde git
-- La necesidad de hacer un PullRequest y la sintaxis de ramas se mantiene igual
+- La necesidad de hacer un PullRequest y la sintaxis de ramas se mantiene iguall
 
 #### Comandos para ambiente local
 
