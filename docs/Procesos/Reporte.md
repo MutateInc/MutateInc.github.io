@@ -4,6 +4,10 @@
 
 En caso de encontrarse ante una situación que incumpla el Código de Ética, se podrá realizar una denuncia a través de [este link](https://forms.gle/Ew3GVu3yG4Hczxpw6).
 
+## Entradas
+
+- Cuestionario de Forms
+
 ## Proceso
 
 Esta denuncia podrá ser anónima y los pasos a seguir son:
@@ -25,3 +29,7 @@ Esta denuncia podrá ser anónima y los pasos a seguir son:
 ### Fase posterior
 
     El reporte será enviado a todos los miembros del comité de ética, quienes discutirán la información y buscarán la mejor solución posible. La resolución del problema será comunicada a todos los involucrados.
+
+## Salidas
+
+- Reporte
