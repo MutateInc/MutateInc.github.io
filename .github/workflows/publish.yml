@@ -1,4 +1,4 @@
-name: Publish Documentation
+name: 🚀 Deploy
 
 on:
   push:
@@ -6,8 +6,10 @@ on:
       - main
 
 jobs:
-  release:
+  deploy:
+    name: Deploy
     runs-on: ubuntu-latest
+    environment: github-pages
 
     steps:
       - name: Checkout
@@ -23,7 +25,7 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.GH_PAGES_DEPLOY }}
 
-      - name: Release to Github Pages
+      - name: Deploy to Github Pages
         env:
           USE_SSH: true
           GIT_USER: git
@@ -38,3 +40,15 @@ jobs:
             npm i
           fi
           npm run deploy
+
+      - name: Semantic Release
+        uses: cycjimmy/semantic-release-action@v3
+        with:
+          semantic_version: 19
+          branch: main
+          extra_plugins: |
+            @semantic-release/changelog@3.0.0
+            @semantic-release/github
+            @semantic-release/commit-analyzer
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
