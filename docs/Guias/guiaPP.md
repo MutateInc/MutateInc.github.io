@@ -20,17 +20,17 @@ Sacando la definición del manual de CMMI v1.3 (2010): "The purpose of Project p
 
    - Establecer qué tecnologías se van a utilizar en el proyecto.
 
-     - Ejemplos: Servidores, frameworks, lenguajes, etc.
+   - _Ejemplos: Servidores, frameworks, lenguajes, etc._
 
 2. Posteriormente hay que determinar que atributos de funcionalidad y calidad serán incluidos.
 
-   - Ejemplos: Seguridad, disponibilidad, etc.
+   - _Ejemplos: Seguridad, disponibilidad, etc._
 
 3. Estimar tamaño y contenido de:
 
    - Entregables y todo tipo de documentos.
    - Software y hardware de apoyo.
-   - Ejemplos: Agile Points, casos de uso, epics, etc.
+   - _Ejemplos: Agile Points, casos de uso, epics, etc._
 
 4. Definir las fases del ciclo de vida del proyecto.
 
@@ -40,8 +40,11 @@ Sacando la definición del manual de CMMI v1.3 (2010): "The purpose of Project p
 
    - Fases sugeridas por CMMI: selección y refinamiento de uno o más modelos de desarrollo.
 
+   - _Ejemplos: identificación de necesidades, diseño de propuesta, prueba de arquitectura, desarrollo, etc._
+
 5. Estimar esfuerzo y costo.
    - Acumular modelos y datos anteriores o una combinación de ambos que puedan transformarse en horas laborales estimadas.
+   - _Ejemplos: horas disponibles de cada miembro, cantidad de miembros, etc._
 
 ### Desarrollar un plan de proyecto
 
@@ -55,12 +58,14 @@ Un plan para proyecto es un documento formal y aprovado para administrar y contr
      - Restricciones
      - Dependencias de las tareas
    - Una vez definidas todas estas cuestiones, lo unico que queda es establecer la planeación, apegarse a ella y crear criterios de acciones correctivas(replaneación, establecer acuerdos nuevos, etc.).
+   - _Ejemplos: Horas de trabajo del equipo, fechas de avances, prioridad de tareas, etc._
 
 2. Identificar los riesgos del proyecto.
 
    - Identificar posibles errores, amenazas, vulnerabilidades, etc.
    - Documentar estos riesgos como más convenga según el caso. (Recomendado _checklist_)
    - Priorizar los riesgos
+   - _Ejemplos: El cliente usa una subscripción que no tiene API para integrar al proyecto, existen necesidades secundarias que pueden requerir un alcance mayor al disponible, etc._
 
 3. Planificar la gestión de datos.
 
@@ -68,7 +73,8 @@ Un plan para proyecto es un documento formal y aprovado para administrar y contr
    - Establecer un mecanismo para guardar datos y accesar a esos mismos datos.
    - Determinar los datos que se van a recolectar, colectarlos y distribuirlos.
    - Determinar los requisitos para proporcionar acceso y distribución de datos a las partes interesadas.
-   - Decidir que datos de proyectos requieren un control de versiones u otros niveles de configuracion de control, y establecer mecanismos para asegurar que los datos son controlador
+   - Decidir que datos de proyectos requieren un control de versiones u otros niveles de configuracion de control, y establecer mecanismos para asegurar que los datos son controlador.
+   - _Ejemplos: Repositorios, BDs, documentación, etc._
 
 4. Recursos de proyectos.
 
@@ -77,6 +83,7 @@ Un plan para proyecto es un documento formal y aprovado para administrar y contr
    - Determinar los requerimientos del staff.
    - Determinar los requisitos de instalaciones, equipos y componentes.
    - Determinar otros requisitos de recursos continuos.
+   - _Ejemplos: Horarios de trabajo, horarios disponibles del socio, medios de comunicación, etc._
 
 5. Planificar el conocimiento y habilidad necesarios.
 
@@ -84,6 +91,7 @@ Un plan para proyecto es un documento formal y aprovado para administrar y contr
    - Evaluar los conocimientos y habilidades disponibles
    - Seleccionar mecanismos para proporcionar los conocimientos y habilidades necasarios
    - Incorporar mecanismos seleccionados en el plan del proyecto.
+   - _Ejemplos: Team knowledge, evaluación de frameworks, tutoriales, cursos, análisis de curva de aprendizaje, etc._
 
 6. Plan para incolucrar a los interesados.
 
@@ -100,11 +108,13 @@ Para ser efectivos los planes necesitan compromiso de quienes son responsables d
 
 2. Conciliar los niveles de trabajo y los recursos.
 
-3. Obtener compromiso con el plan. - Identificar las necesidades de apoyo y negociar compromisos con las partes interesadas pertinentes. - Documentar todos los compromisos organizativos, tanto completos como provisionales.
-   garantizar el nivel adecuado de signatarios. - Revisar los compromisos internos con la alta dirección según corresponda. - Resultados de traducción
-   Revisar los compromisos externos con la alta dirección según corresponda. - Identificar compromisos con respecto a las interfaces entre los elementos del proyecto.
-   y otros proyectos y unidades organizativas para que estos compromisos
-   puede ser monitoreado.
+3. Obtener compromiso con el plan.
+   - Identificar las necesidades de apoyo y negociar compromisos con las partes interesadas pertinentes.
+   - Documentar todos los compromisos organizativos, tanto completos como provisionales garantizar el nivel adecuado de signatarios.
+   - Revisar los compromisos internos con la alta dirección según corresponda.
+   - Resultados de traducción.
+   - Revisar los compromisos externos con la alta dirección según corresponda.
+   - Identificar compromisos con respecto a las interfaces entre los elementos del proyecto.y otros proyectos y unidades organizativas para que estos compromisos puede ser monitoreado.
 
 ## Referencias
 
