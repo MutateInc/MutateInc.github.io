@@ -26,10 +26,46 @@ Al momento de redactar este documento se tienen las siguientes propuestas de ben
 
 Para entender y definir mejor el objetivo a lograr con la solución del cliente es necesario tener claridad con los procesos del cliente relacionados con las necesidades identificadas. Los cuales describiremos a continuación.
 
-**Necesidad 1 (Registro/generación de facturas):**
+**Proceso 1 (Recepción Facturas de Proveedores):**
 
 ```
-    0. [REQUISITO] Se posee una factura que se quiere registrar.
+    0. [REQUISITO] Rocío usualmente el jueves corrobora inventario que tiene y calcula cuánto debe pedir.
+    1. Escribe el pedido a proveedores.
+    2. Recibe el pedido (entre martes y miércoles) con la factura del pedido. Corrobora que el pedido tenga lo mencionado en la factura y actualiza el inventario (en excel).
 ```
 
-TO BE CONTINUED...
+**Proceso 2 (Generación de Facturas Órdenes de Venta a Clientes):**
+
+```
+    1. El cliente solicita por whatsapp (usualmente), o correo, el pedido indicando fecha de entrega necesaria.
+        1.1 En caso de que el cliente no solicite, Rocío contacta al cliente para verificar si necesita algún producto.
+    2. Se prepara el envío y se genera la factura.
+    3. Se despacha el pedido y una vez que regresa la camioneta, se verifica si hubo productos que regresaron.
+    4. Se actualiza el inventario con los productos que se fueron.
+```
+
+
+**Proceso 3 (Verificación de Créditos y Pagos):**
+
+```
+    Nota: algunos pagos se realizan en efectivo, otros por transferencia (usualmente).
+    1. El banco emite el estado de cuenta (una vez por mes).
+    2. Rocío recorre el estado de cuenta, movimiento por movimiento, buscando la factura que corresponda al monto de dicho movimiento.
+    3. Una vez identificado un movimiento que corresponda con factura, se marca como pagado.
+        3.1 En caso de que existan varias facturas con un mismo monto y falten movimientos en el estado de cuenta que correspondan a dichos montos, se solicita a los clientes un comprobante de pago.
+```
+
+## Otros Puntos a Considerar
+- En el futuro, se considera que exista una persona para recepción de producto (proceso 1) y otra para generación de facturas (en caso de encontrar una API, esto se podría evitar).
+- Los datos de facturación podrían guardarse para agilizar la generación de facturas (e incluso para integración con API).
+- Algunos pedidos tienen diferente precio debido al volumen de la orden.
+- Datos importantes a guardar en el inventario es el precio de compra, y fecha de caducidad (tal vez por lote).
+- Podría ser útil guardar comprobantes/complementos de pago y las facturas.
+- En ocasiones es necesario cancelar facturas.
+- Versión de facturación es 4.0.
+- También es necesario registrar a qué proveedor ya le ha pagado y a quién tiene pendiente pagarle.
+- El sistema que usa Rocío actualmente para facturar es Contpaq.
+- Podría ser útil imprimir el inventario del pedido para darlo al operador y pueda preparar el envío, asegurándose así de que tenga las mismas cantidades que se van a facturar y que se actualizarán del inventario.
+- Hay que considerar qué sucede si Rocío se enferma y no puede trabajar presencialmente.
+
+# Decisiones de la Solución
