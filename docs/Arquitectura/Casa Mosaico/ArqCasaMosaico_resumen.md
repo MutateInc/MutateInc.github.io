@@ -69,3 +69,9 @@ Para entender y definir mejor el objetivo a lograr con la solución del cliente 
 - Hay que considerar qué sucede si Rocío se enferma y no puede trabajar presencialmente.
 
 # Decisiones de la Solución
+
+Es importante considerar una gran variedad de factores para poder tomar las decisiones sobre qué herramientas y qué estrategias tomar a la hora de desarrollar la solución. En este caso, comenzaremos por decidir que solución de back-end se usará ya que otros factores dependerán de dicha decisión. 
+
+El desgloce de cada factor a considerar para la decisión sería demasiado largo para este resumen, por lo tanto se realizarán en sus respectivas secciones y aquí se colocará únicamente el concentrado.
+
+[tabla del concentrado de datos]
