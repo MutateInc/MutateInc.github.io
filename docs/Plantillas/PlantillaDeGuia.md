@@ -1,7 +1,7 @@
 # Plantilla de Guías
 
 ```md
-# G[# de guía] - Guía <título de la guía>
+# Guía <título de la guía>
 
 ## Objetivo(s)
 
