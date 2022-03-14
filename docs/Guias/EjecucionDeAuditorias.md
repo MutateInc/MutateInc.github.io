@@ -138,16 +138,3 @@ Program Managers del departamento para buscar soluciones.
 | Versión | Descripción      | Responsables   | Fecha      |
 | ------- | ---------------- | -------------- | ---------- |
 | 1.0     | Creación de guía | Pablo Valencia | 14/03/2022 |
-
-
-
-
-
-
-
-
-
-
-
-
-
