@@ -1,9 +1,5 @@
 # Nombre del proceso
 
-## Versión
-
-1.0
-
 ## Objetivo
 
 Objetivo del proceso
@@ -14,12 +10,13 @@ Objetivo del proceso
 - Entrada 2
 - Entrada n
 
-## Proceso
+## Procedimiento
 
-### [Nombre de la fase 1] - [Involucrados]
-
-1. **Responsable:** paso a ejeccutar.
-2. **Responsable:** paso a ejecutar.
+| Fase          | Descripción         | Responsables        | Áreas CMMI                                        |
+| ------------- | ------------------- | ------------------- | ------------------------------------------------- |
+| Nombre fase 1 | Actividades fase 1. | Responsables fase 1 | Acrónimo área 1, acrónimo área 2, ácrónimo área n |
+| Nombre fase 2 | Actividades fase 2. | Responsables fase 2 | Acrónimo área 1, acrónimo área 2, ácrónimo área n |
+| Nombre fase n | Actividades fase n. | Responsables fase n | Acrónimo área 1, acrónimo área 2, ácrónimo área n |
 
 ## Salidas
 
@@ -33,8 +30,9 @@ Objetivo del proceso
 - Métrica 2
 - Métrica n
 
-## Autores
+## Versiones
 
-- Autor 1
-- Autor 2
-- Autor n
+| Versión | Descripción                      | Responsables   | Fecha      |
+| ------- | -------------------------------- | -------------- | ---------- |
+| 1.0     | Creación de la plantilla         | Pablo Valencia | 4/03/2022  |
+| 1.1     | Cambiar formato de procedimiento | Pablo Valencia | 12/03/2022 |

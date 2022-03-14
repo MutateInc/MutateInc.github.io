@@ -1,9 +1,5 @@
 # Guía para creación de proceso
 
-## Versión
-
-1.0
-
 ## Objetivo
 
 Asistir a los integrantes del departamento en la identificación de los elementos
@@ -57,42 +53,24 @@ que iniciaría la ejecución de un proceso para cambios a requisitos podría ser
 el llenado de una solicitud. En este caso, la solicitud es la entrada del
 proceso.
 
-### Proceso
+### Procedimiento
 
-Son los pasos con cierta secuencia lógica que deben seguirse para lograr cumplir
-con el objetivo del proceso. En cada paso se debe mencionar a la persona que lo
-ejecuta. Por ejemplo:
+Son los pasos con cierta secuencia lógica que deben seguirse para cumplir
+con el objetivo del proceso. Las fases de los procedimientos se ejecutan de
+forma secuencial; sin embargo, las actividades de cada fase se pueden ejecutar
+sin un orden en específico. A continuación se muestra un fragmento del
+procedimiento para hacer un auditoría:
 
-1. **Team Leader:** anota el riesgo identificado en la matriz de riesgos.
-2. **Team Leader:** identifica el impacto del riesgo en una escala de 1 a 5.
+| Fase                        | Descripción                                                                                                                        | Responsables         | Áreas CMMI |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------|------------|
+| Planeación                  | Identificar los procesos a auditar y hacer una lista de las evidencias esperadas.                                                  | Equipo de auditorías | PPQA       |
+| Preparación de la auditoría | Contactar al equipo que será auditado para que preparen las evidencias y se defina una fecha para realizar la auditoría.           | Equipo de auditorías | PPQA       |
+| Auditorías                  | Realizar las entrevistas para verificar que los procesos son ejecutados apropiadamente. Registrar las irregularidades encontradas. | Equipo de auditorías | PPQA       |
 
-**Nota:** si los pasos del proceso están enumerados es porque deben seguirse de
-forma secuencial. De otra forma, los pasos del proceso únicamente indican lo que
-se debe realizar sin que sea de forma secuencial necesariamente.
 
-El proceso se puede definir en múltiples fases. Las fases deben contener el
-nombre de la fase seguido por los involucrados en la fase. Las fases contienen
-una seria de pasos con el formato mencionado en la parte de arriba. Por ejemplo:
-
-```markdown
-### Fase de análisis - Team Leader
-
-1. **Team Leader:** anota el riesgo identificado en la matriz de riesgos.
-2. **Team Leader:** identifica el impacto del riesgo en una escala de 1 a 5.
-```
-
-Para pasar de una fase a otra, se debe mencionar en un paso del proceso.
-Esto permite ir a diferentes fases del proceso dependiendo del contexto.
-Por ejemplo:
-
-```markdown
-### Fase de análisis - Líderes de CMMI
-
-1. **Líderes de CMMI:** revisan la solicitud del proceso y evalúan si es
-necesario crear un proceso departamental.
-    * Si la solicitud es aceptada, continuar con el proceso.
-    * Si la solicitud es rechazada, continuar a *fase de descarte*.
-```
+Notar que cada fase cuenta una persona responsable o un equipo responsable.
+Cuando una fase realiza actividades específicas de áreas de CMMI, se incluye
+el nombre de las áreas en la última columna.
 
 ### Salidas
 
@@ -105,11 +83,10 @@ Son los indicadores que se deben medir para evaluar el proceso o una parte del
 mismo. Por ejemplo, en un proceso de gestión de riesgos, se puede medir el
 número de riegos mitigados.
 
-### Autores
+## Versiones
 
-Son las personas que han participado en la creación del proceso y en la mejora
-del mismo.
+| Versión | Descripción                                                      | Responsables   | Fecha      |
+| ------- | ---------------------------------------------------------------- | -------------- | ---------- |
+| 1.0     | Creación de guía                                                 | Pablo Valencia | 4/03/2022  |
+| 1.1     | Agregar versionamiento correcto y cambiar parte de procedimiento | Pablo Valencia | 10/03/2022 |
 
-## Autores
-
-- Pablo Valencia
