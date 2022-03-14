@@ -1,5 +1,6 @@
 # Plantilla Minuta
 
+```md
 # Junta
 
 Fecha: dd/mm/aaaa
@@ -35,3 +36,11 @@ Equipo - Proyecto
 - Acuerdo 2
 
 - Acuerdo 3
+```
+
+## Versiones
+
+| Versión | Descripción                      | Responsables   | Fecha      |
+| ------- | -------------------------------- | -------------- | ---------- |
+| 1.0     | Creación de la plantilla         | Pablo Valencia | 21/02/2022 |
+| 1.1     | Cambiar formato de plantilla     | Pablo Valencia | 14/03/2022 |
