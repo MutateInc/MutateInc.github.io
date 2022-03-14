@@ -1,6 +1,5 @@
 # Plantilla Minuta
 
-```md
 # Junta
 
 Fecha: dd/mm/aaaa
@@ -18,7 +17,7 @@ Equipo - Proyecto
 ## Agenda
 
 * Decisión a tomar o tema tratar 1 (x - y minutos)
-  
+
   * Información adicional
 
 * Decisión a tomar o tema tratar 2 (x - y minutos)
@@ -36,4 +35,3 @@ Equipo - Proyecto
 - Acuerdo 2
 
 - Acuerdo 3
-```
