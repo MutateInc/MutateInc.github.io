@@ -18,11 +18,11 @@ con las definiciones de los procesos, los estándares y las políticas estableci
 | Preparación de la auditoría | Contactar al equipo que será auditado para definir la fecha de la auditoría.                                                                                                                    | Equipo de auditorías | PPQA       |
 | Auditorías                  | Realizar las entrevistas para verificar que los procesos son ejecutados apropiadamente y que los productos de trabajo cumplen con ciertos criterios. Registrar las irregularidades encontradas. | Equipo de auditorías | PPQA       |
 | Análisis de la auditoría    | Redactar un reporte con las irregularidades encontradas, acciones correctivas y sugerencias.                                                                                                    | Equipo de auditorías | PPQA       |
-| Retroalimentación           | A través de una sesión de retroalimentación, compartir los resultados del reporte al equipo y definir una fecha para solucionar las irregularidades y las sugerencias.                          | Equipo de auditorías | PPQA       |
+| Retroalimentación           | Compartir los resultados del reporte al equipo y definir una fecha para solucionar las irregularidades y las sugerencias.                          | Equipo de auditorías | PPQA       |
 | Seguimiento                 | Hacer una revisión en la fecha establecida para asegurar que las irregularidades se hayan solucionado.                                                                                          | Equipo de auditorías | PPQA       |
 | Escalamiento                | Si el equipo de auditores lo considera necesario, informar los resultados a los PM's.                                                                                                           | Equipo de auditorías | PPQA       |
 
-> Se sugiere consutar la **Guía de auditorías** para solucionar dudas
+> Se sugiere consutar la [Guía de auditorías](../Guias/EjecucionDeAuditorias.md) para solucionar dudas
 
 ## Salidas
 
@@ -34,6 +34,7 @@ con las definiciones de los procesos, los estándares y las políticas estableci
 
 ## Versiones
 
-| Versión | Descripción          | Responsables   | Fecha      |
-| ------- | -------------------- | -------------- | ---------- |
-| 1.0     | Creación del proceso | Pablo Valencia | 10/03/2022 |
+| Versión | Descripción                | Responsables   | Fecha      |
+| ------- | -------------------------- | -------------- | ---------- |
+| 1.0     | Creación del proceso       | Pablo Valencia | 10/03/2022 |
+| 1.1     | Agregar guía de auditorías | Pablo Valencia | 14/03/2022 |
