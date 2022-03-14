@@ -6,7 +6,7 @@ Establecer y mantener la integridad de los productos de trabajo utilizando la id
 
 ### Como parte del área de gestión de configuración se encuentran las siguientes actividades:
 
-- dentificar la configuración de los productos de trabajo seleccionados que componen las líneas base en puntos determinados en 
+- Identificar la configuración de los productos de trabajo seleccionados que componen las líneas base en puntos determinados en 
 El tiempo.
 - Controlar los cambios a los elementos de configuración.
 - Construir o proporcionar las especificaciones para construir los productos de trabajo a partir del sistema de gestión de 
@@ -83,6 +83,10 @@ Eric Fernando Torres Rodríguez
 Alberto Matute Beltrán
 
 ## Bitácora de cambios
+
+### Versión 1.2
+
+- Ajuste de Ortografia
 
 ### Versión 1.1
 
