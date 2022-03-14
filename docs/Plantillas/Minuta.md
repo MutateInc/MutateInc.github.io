@@ -1,11 +1,7 @@
 # Plantilla Minuta
 
 ```md
----
-slug: 19-feb-objetivo
-title: 19 Feb - Objetivo
-tags: [hola, docusaurus]
----
+# Junta
 
 Fecha: dd/mm/aaaa
 
