@@ -1,12 +1,4 @@
----
-sidebar_position: 2
----
-
 # Código de ética de Mutate
-
-## Versión
-
-1.2
 
 ## Introducción
 
@@ -16,20 +8,11 @@ Para el departamento de desarrollo de tecnologías Mutate el Código de Ética e
 
 Mutate es un departamento con propósitos y valores. Actuar con el más alto nivel de ética es crucial para nuestro éxito.
 
-- _Compromiso_  
-A través del compromiso completamos nuestros objetivos cuando dos o más personas ceden para lograr una colaboración mutua.
-
-- _Responsabilidad_  
-Trabajamos con responsabilidad, cumpliendo las obligaciones que tenemos como organización y como individuos.
-
-- _Excelencia_  
-  Nuestro trabajo se reconoce por tener un buen rendimiento y satisface las necesidades de nuestros clientes.
-
-- _Honestidad_  
-  Como departamento nos responsabilizamos de desarrollar procesos efectivos, al igual que medir y evaluar las mejores soluciones posibles.
-
-- _Integridad_  
-  La comunicación nos ayudará a integrarnos como departamento para asegurarnos de la participación e inclusión de todos los miembros.
+- El **respeto** es la base de nuestra convivencia.
+- A través del **compromiso** completamos nuestros objetivos.
+- Trabajamos con **responsabilidad**.
+- Nuestro trabajo se distingue por su **excelencia**.
+- La **integridad** se refleja en nuestras decisiones.
 
 ## Objetivo
 
@@ -59,37 +42,38 @@ El departamento de Mutate se compromete a cuidar la información que se maneje d
 
 Dentro del departamento se tendrá un acercamiento individual o grupal, el cual tendrá como finalidad ayudar o asistir a algún compañero que no esté cumpliendo debidamente con el código de ética. Esto ayudará a las personas involucradas a seguir dentro de un contexto sano tanto con su equipo como con el departamento.
 
-En base al tipo de problema que se presente, se tomarán acciones correspondientes a la falta:
+Con base al tipo de problema que se presente, se tomarán acciones correspondientes a la falta:
 
 - En caso de tener un altercado con algún compañero de trabajo se hará una reunión con todos los involucrados, expondrán sus puntos de vista y se llegará a un acuerdo por parte de ambos bandos.
 
 - En caso de romper el código de ética, se hará una reunión con todo el comité, apoyando y asesorando al individuo para buscar el mejor fin posible. Si la situación sigue siendo concurrente con el individuo, se buscará la ayuda por otros medios o con la autoridad académica correspondiente.
 
-- **Contingencia**: En caso de participar un miembro del comité de ética en algún altercado o que no esté cumpliendo correctamente el código de ética se hablará internamente con todo el comité o de igual forma se buscará el apoyo con algún otro compañero del departamento.
+- **Contingencia**: en caso de participar un miembro del comité de ética en algún altercado o que no esté cumpliendo correctamente el código de ética se hablará internamente con todo el comité o de igual forma se buscará el apoyo con algún otro compañero del departamento.
 
 ## Comité de Ética de Mutate
 
 Aseguraremos el cumplimiento del código ya establecido por todos los miembros de la organización y en caso de faltas hacia el mismo se llevará a cabo el procedimiento establecido para atender cualquier incumplimiento de manera apropiada y asegurar un desempeño ético por parte Mutate.
 
-**Objetivos del comité de ética**  
--Tenemos como objetivo del comité el poder contar con los mecanismos necesarios para poder guiar al departamento de forma correcta.  
--Evaluar conflictos, controversias y resolverlos de forma sencilla y eficaz.
+**Objetivos del comité de ética**
+
+- Tenemos como objetivo del comité el poder contar con los mecanismos necesarios para poder guiar al departamento de forma correcta. 
+- Evaluar conflictos, controversias y resolverlos de forma sencilla y eficaz.
 
 ## Miembros del comité
 
-- Estefanía Ortiz:  
+- Estefanía Ortiz: 
 **Relación con los clientes y maestros**
-- Emilio Aguilera:  
+- Emilio Aguilera: 
 **Área de trabajo**
-- Emilio Rivas:  
+- Emilio Rivas: 
 **Gestión de la información**
-- Omar Molina:  
+- Omar Molina: 
 **Diversidad e Inclusión**
-- Francisco Díaz:  
+- Francisco Díaz: 
 **Medio ambiente**
-- Departamento:  
-**Trabajo colaborativo**  
-**Quejas**  
+- Departamento: 
+**Trabajo colaborativo**
+**Quejas**
 **Acercamiento individual o empático**
 
 ## Versiones
@@ -99,3 +83,4 @@ Aseguraremos el cumplimiento del código ya establecido por todos los miembros d
 | 1.0     | Creación del documento         | Comité de etica | 03/03/2022 |
 | 1.1     | Correcciones al codigo        | Comité de etica | 11/03/2022 |
 | 1.2     | Ajuste de formato       | Emilio Rivas | 14/03/2022 |
+| 1.3 | Cambiar valores | Pablo Valencia | 15/03/2022 |
