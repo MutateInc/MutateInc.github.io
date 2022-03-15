@@ -86,5 +86,5 @@ Definir un plan de trabajo.
 
 | Versión | Descripción                      | Responsables   | Fecha      |
 | ------- | -------------------------------- | -------------- | ---------- |
-| 1.0     | Creación de proceso        | Fernando Vargas | 15/03/2022  |
+| 1.0     | Creación de proceso              |Fernando Vargas | 15/03/2022 |
 
