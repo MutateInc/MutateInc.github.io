@@ -9,10 +9,10 @@
 
 ## Evaluación
 
-* Queja en cuestion
+* Queja en cuestión
 * Áreas comprometidas del código de ética
 * Número de miembros del equipo afectados
-* Frecuencia del incidente.
+* Frecuencia del incidente
 
 ## Notas
 
@@ -20,8 +20,8 @@ Agregar información relevante sobre la junta o comentarios adicionales.
 
 ## Veredicto
 
-Veredicto del comité
-Acción a tomar (en caso de ser necesario)
+- Veredicto del comité
+- Acción a tomar (en caso de ser necesario)
 
 ```
 
@@ -30,3 +30,4 @@ Acción a tomar (en caso de ser necesario)
 | Versión | Descripción                      | Responsables   | Fecha      |
 | ------- | -------------------------------- | -------------- | ---------- |
 | 1.0     | Creación de la plantilla         | Emilio Rivas | 14/03/2022 |
+| 1.1 | Corrección ortografía | Pablo Valencia | 15/03/2022 |
