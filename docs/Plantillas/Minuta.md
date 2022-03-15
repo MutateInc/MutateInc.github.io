@@ -1,11 +1,7 @@
 # Plantilla Minuta
 
 ```md
----
-slug: 19-feb-objetivo
-title: 19 Feb - Objetivo
-tags: [hola, docusaurus]
----
+# Junta
 
 Fecha: dd/mm/aaaa
 
@@ -22,7 +18,7 @@ Equipo - Proyecto
 ## Agenda
 
 * Decisión a tomar o tema tratar 1 (x - y minutos)
-  
+
   * Información adicional
 
 * Decisión a tomar o tema tratar 2 (x - y minutos)
@@ -41,3 +37,10 @@ Equipo - Proyecto
 
 - Acuerdo 3
 ```
+
+## Versiones
+
+| Versión | Descripción                      | Responsables   | Fecha      |
+| ------- | -------------------------------- | -------------- | ---------- |
+| 1.0     | Creación de la plantilla         | Pablo Valencia | 21/02/2022 |
+| 1.1     | Cambiar formato de plantilla     | Pablo Valencia | 14/03/2022 |

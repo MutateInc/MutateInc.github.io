@@ -1,9 +1,5 @@
 # Proceso de junta
 
-## Versión
-
-1.1
-
 ## Objetivo
 
 Estandarizar la forma en la que se van a llevar las juntas a nivel departamento
@@ -11,53 +7,37 @@ para asegurar su efectividad.
 
 ## Entradas
 
-- Junta calendarizada con lugar, fecha y hora
+- Junta calendarizada con:
+  - Fecha
+  - Lugar
+  - Hora
+  - Agenda
 
-## Proceso
 
-### Fase previa - Organizadores
+## Procedimiento
 
-1. **Organizadores:** definen las decisiones/temas a tratar de la junta.
-2. **Organizadores:** construyen la agenda asignando un tiempo límite por cada
-decisión y/o tema a tratar según su prioridad. Poner la agenda en la sección
-correspondiente de la [plantilla de minuta](../Plantillas/Minuta.md).
-3. **Organizadores:** asignan un encargado de la junta para llevar la agenda y
-un encargado para tomar la minuta.
-4. **Encargado de la junta:** envía la agenda de la junta a los todos los
-participantes con anticipación (al menos 1 hora antes de la junta).
-   - Junta interna - Discord
-   - Junta externa - Correo electrónico o medio de comunicación preferido
-5. Continuar a la fase de junta.
+| Fase       | Descripción                                                                                                                                                                                                                                                           | Responsables          | Áreas CMMI |
+|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|------------|
+| Inicial    | Verificar si es necesario grabar la sesión y pedir permiso a los participantes. Asignar a un encargado para redactar la minuta siguiendo la [plantilla de minuta](../Plantillas/Minuta.md). Mencionar la agenda de la junta y agregar temas a tratar no considerados. | Organizadores         | --         |
+| Desarrollo | Seguir la agenda establecida de la junta. Anotar en la minuta los acuerdos establecidos y los puntos importantes.                                                                                                                                                     | Organizadores         | --         |
+| Cierre     | Mencionar nuevamente los acuerdos anotados en la minuta. Si es necesario, proponer el objetivo de la próxima junta y sugerir una fecha y hora.                                                                                                                        | Organizadores         | --         |
+| Posterior  | Compartir la minuta por el medio establecido.                                                                                                                                                                                                                         | Responsable de minuta | --         |
 
-### Junta - Todos los participantes
-
-1. **Encargado de la junta:** verifica si es necesario grabar la sesión. Si es
-el caso, se asegura de que todos los participantes estén de acuerdo e inicia la
-grabación.
-2. **Encargado de la junta:** sigue la agenda previamente establecida y promueve
-la participación de todos los invitados.
-3. **Encargado de la minuta:** anota los puntos más importantes de la junta y
-los acuerdos. Menciona los acuerdos antes del cierre.
-4. **Encargado de la junta:** propone el objetivo de la próxima junta y hace
-sugeriencias de fechas y horarios (opcional).
-5. Continuar a la fase posterior.
-
-### Fase posterior - Organizadores
-
-1. **Encargado de tomar minuta**: comparte la minuta a través del canal de
-minutas de la junta.
-2. **Encargado de la junta:** agenda la próxima sesión (opcional).
 
 ## Salidas
 
 - Minuta
-- Acuerdos
 
 ## Métricas
 
 - Asistencia
 - Puntualidad
 
-## Autores
+## Versiones
 
-- Pablo Valencia
+| Versión | Descripción                                  | Responsables   | Fecha      |
+| ------- | -------------------------------------------- | -------------- | ---------- |
+| 1.0     | Creación del proceso                         | Pablo Valencia | 21/02/2022 |
+| 1.1     | Agregar versión, autores y cambiar plantilla | Pablo Valencia | 7/03/2022  |
+| 1.2     | Simplificación de proceso y nuevo formato    | Pablo Valencia | 12/03/2022 |
+
