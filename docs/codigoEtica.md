@@ -4,6 +4,10 @@ sidebar_position: 2
 
 # Código de ética de Mutate
 
+## Versión
+
+1.3
+
 ## Introducción
 
 Para el departamento de desarrollo de tecnologías Mutate el Código de Ética es la base de la conducta que regula las acciones, convivencia, y comportamiento de todos los integrantes. En este documento se establecen los valores y principios fundamentales para lograr un entorno de trabajo ético en relación con los clientes, maestros, compañeros de trabajo y medio ambiente.

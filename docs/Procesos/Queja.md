@@ -2,7 +2,7 @@
 
 ## Versión
 
-1.0
+1.1
 
 ## Objetivo
 
@@ -10,7 +10,7 @@ Gestionar las quejas realizadas por parte de miembros del equipo de Mutate con r
 
 ## Entradas
 
--Queja presentada en buzón digital (Google Forms)
+-Queja presentada en [buzón digital](https://forms.gle/Ew3GVu3yG4Hczxpw6)
 
 ## Proceso
 
