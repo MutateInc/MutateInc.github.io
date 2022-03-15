@@ -8,11 +8,20 @@ Para el departamento de desarrollo de tecnologías Mutate el Código de Ética e
 
 Mutate es un departamento con propósitos y valores. Actuar con el más alto nivel de ética es crucial para nuestro éxito.
 
-- El **respeto** es la base de nuestra convivencia.
-- A través del **compromiso** completamos nuestros objetivos.
-- Trabajamos con **responsabilidad**.
-- Nuestro trabajo se distingue por su **excelencia**.
-- La **integridad** se refleja en nuestras decisiones.
+- _Compromiso_  
+  A través del compromiso completamos nuestros objetivos cuando dos o más personas ceden para lograr una colaboración mutua.
+
+- _Responsabilidad_  
+  Trabajamos con responsabilidad, cumpliendo las obligaciones que tenemos como organización y como individuos.
+
+- _Excelencia_  
+  Nuestro trabajo se reconoce por tener un buen rendimiento y satisface las necesidades de nuestros clientes.
+
+- _Honestidad_  
+  Como departamento nos responsabilizamos de desarrollar procesos efectivos, al igual que medir y evaluar las mejores soluciones posibles.
+
+- _Integridad_  
+  La comunicación nos ayudará a integrarnos como departamento para asegurarnos de la participación e inclusión de todos los miembros.
 
 ## Objetivo
 
@@ -61,26 +70,26 @@ Aseguraremos el cumplimiento del código ya establecido por todos los miembros d
 
 ## Miembros del comité
 
-- Estefanía Ortiz: 
+- Estefanía Ortiz:  
 **Relación con los clientes y maestros**
-- Emilio Aguilera: 
+- Emilio Aguilera:  
 **Área de trabajo**
-- Emilio Rivas: 
+- Emilio Rivas:  
 **Gestión de la información**
-- Omar Molina: 
+- Omar Molina:  
 **Diversidad e Inclusión**
-- Francisco Díaz: 
+- Francisco Díaz:  
 **Medio ambiente**
-- Departamento: 
-**Trabajo colaborativo**
-**Quejas**
-**Acercamiento individual o empático**
+- Departamento:   
+**Trabajo colaborativo**  
+**Quejas**  
+**Acercamiento individual o empático**  
 
 ## Versiones
 
-| Versión | Descripción                      | Responsables   | Fecha      |
-| ------- | -------------------------------- | -------------- | ---------- |
-| 1.0     | Creación del documento         | Comité de etica | 03/03/2022 |
-| 1.1     | Correcciones al codigo        | Comité de etica | 11/03/2022 |
-| 1.2     | Ajuste de formato       | Emilio Rivas | 14/03/2022 |
-| 1.3 | Cambiar valores | Pablo Valencia | 15/03/2022 |
+| Versión | Descripción                      | Responsables    | Fecha      |
+| ------- | -------------------------------- | --------------- | ---------- |
+| 1.0     | Creación del documento           | Comité de etica | 03/03/2022 |
+| 1.1     | Correcciones al codigo           | Comité de etica | 11/03/2022 |
+| 1.2     | Ajuste de formato                | Emilio Rivas    | 14/03/2022 |
+| 1.3     | Corregir errores de ortografía   | Pablo Valencia  | 15/03/2022 |
