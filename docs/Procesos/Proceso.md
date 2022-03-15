@@ -32,4 +32,4 @@ comunes previamente implementadas y probadas.
 | Versión | Descripción                                | Responsables   | Fecha      |
 | ------- | ------------------------------------------ | -------------- | ---------- |
 | 1.0     | Creación del proceso                       | Pablo Valencia | 4/03/2022  |
-| 1.1     | Simplificación del proceso y nuevo formato | Pablo Valencia | 10/03/2022 |
+| 2.0     | Simplificación del proceso y nuevo formato | Pablo Valencia | 10/03/2022 |
