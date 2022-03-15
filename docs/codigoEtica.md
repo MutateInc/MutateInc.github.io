@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Versión
 
-1.3
+1.2
 
 ## Introducción
 
@@ -71,11 +71,11 @@ En base al tipo de problema que se presente, se tomarán acciones correspondient
 
 Aseguraremos el cumplimiento del código ya establecido por todos los miembros de la organización y en caso de faltas hacia el mismo se llevará a cabo el procedimiento establecido para atender cualquier incumplimiento de manera apropiada y asegurar un desempeño ético por parte Mutate.
 
-**Objetivos del comité de ética**
--Tenemos como objetivo del comité el poder contar con los mecanismos necesarios para poder guiar al departamento de forma correcta.
+**Objetivos del comité de ética**  
+-Tenemos como objetivo del comité el poder contar con los mecanismos necesarios para poder guiar al departamento de forma correcta.  
 -Evaluar conflictos, controversias y resolverlos de forma sencilla y eficaz.
 
-## Autores
+## Miembros del comité
 
 - Estefanía Ortiz:  
 **Relación con los clientes y maestros**
@@ -91,3 +91,11 @@ Aseguraremos el cumplimiento del código ya establecido por todos los miembros d
 **Trabajo colaborativo**  
 **Quejas**  
 **Acercamiento individual o empático**
+
+## Versiones
+
+| Versión | Descripción                      | Responsables   | Fecha      |
+| ------- | -------------------------------- | -------------- | ---------- |
+| 1.0     | Creación del documento         | Comité de etica | 03/03/2022 |
+| 1.1     | Correcciones al codigo        | Comité de etica | 11/03/2022 |
+| 1.2     | Ajuste de formato       | Emilio Rivas | 14/03/2022 |

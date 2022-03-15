@@ -26,3 +26,10 @@ al codigo de ética.
 ### Fase posterior
 
 El reporte será enviado a todos los miembros del comité de ética, quienes discutirán la información y buscarán la mejor solución posible. La resolución del problema será comunicada a todos los involucrados.
+
+
+## Versiones
+
+| Versión | Descripción                      | Responsables   | Fecha      |
+| ------- | -------------------------------- | -------------- | ---------- |
+| 1.0     | Creación del documento         | Comité de etica | 03/03/2022 |
