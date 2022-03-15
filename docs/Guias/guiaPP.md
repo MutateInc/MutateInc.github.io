@@ -116,6 +116,19 @@ Para ser efectivos los planes necesitan compromiso de quienes son responsables d
    - Revisar los compromisos externos con la alta dirección según corresponda.
    - Identificar compromisos con respecto a las interfaces entre los elementos del proyecto.y otros proyectos y unidades organizativas para que estos compromisos puede ser monitoreado.
 
+## Autores
+
+- Fernando Vargas
+- Santiago Arellano
+- José Eduardo Cadena
+
+## Versiones
+
+| Versión | Descripción                                | Responsable   | Fecha      |
+| ------- | ------------------------------------------ | -------------- | ---------- |
+| 1.0     | Creación de la guía                      | Area PP | 5/03/2022  |
+| 1.1     | Agregar versiones y correción de redacción  | Fernando Vargas | 10/03/2022 |
+
 ## Referencias
 
 - CMMI Product Team. (2010). _CMMI for Development, Version 1.3_.
