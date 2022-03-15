@@ -5,7 +5,7 @@
 Guiar a los miembros del departamento en el envío de una solicitud de queja en caso de haber identificado una violación
 al codigo de ética.
 
-## Proceso
+## Contenido
 
 1. Navegar el formulario a través de [este link](https://forms.gle/Ew3GVu3yG4Hczxpw6).
 
@@ -26,3 +26,11 @@ al codigo de ética.
 ### Fase posterior
 
 El reporte será enviado a todos los miembros del comité de ética, quienes discutirán la información y buscarán la mejor solución posible. La resolución del problema será comunicada a todos los involucrados.
+
+
+## Versiones
+
+| Versión | Descripción                      | Responsables   | Fecha      |
+| ------- | -------------------------------- | -------------- | ---------- |
+| 1.0     | Creación del documento         | Comité de etica | 03/03/2022 |
+| 1.1 | Seguir plantilla de guía | Pablo Valencia | 15/03/2022 |
