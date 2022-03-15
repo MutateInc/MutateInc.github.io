@@ -39,5 +39,5 @@ Objetivo del proceso
 | Versión | Descripción                      | Responsables   | Fecha      |
 | ------- | -------------------------------- | -------------- | ---------- |
 | 1.0     | Creación de la plantilla         | Pablo Valencia | 4/03/2022  |
-| 1.1     | Cambiar formato de procedimiento | Pablo Valencia | 12/03/2022 |
-| 1.2     | Poner plantilla en Markdown      | Pablo Valencia | 14/03/2022 |
+| 2.0     | Cambiar formato de procedimiento | Pablo Valencia | 12/03/2022 |
+| 2.1     | Poner plantilla en Markdown      | Pablo Valencia | 14/03/2022 |
