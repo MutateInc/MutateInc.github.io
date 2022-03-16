@@ -116,12 +116,6 @@ Para ser efectivos los planes necesitan compromiso de quienes son responsables d
    - Revisar los compromisos externos con la alta dirección según corresponda.
    - Identificar compromisos con respecto a las interfaces entre los elementos del proyecto.y otros proyectos y unidades organizativas para que estos compromisos puede ser monitoreado.
 
-## Autores
-
-- Fernando Vargas
-- Santiago Arellano
-- José Eduardo Cadena
-
 ## Versiones
 
 | Versión | Descripción                                | Responsable   | Fecha      |
