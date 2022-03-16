@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Definición de ojetivos de un proyecto.
+Definir los objetivos de un proyecto.
 
 ## Entradas
 
