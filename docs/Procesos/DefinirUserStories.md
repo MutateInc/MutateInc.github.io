@@ -34,5 +34,7 @@ Requisitos y Epics
 ## Versiones
 
 | Versión | Descripción                      | Responsables     | Fecha      |
-| ------- | -------------------------------- | --------------   | ---------- |
-| 1.0     | Creación de proceso              |Santiago Arellano | 16/03/2022 |
+| ------- | -------------------------------- |------------------|------------|
+| 1.0     | Creación de proceso              |Fernando Vargas   | 15/03/2022 |
+|         |                                  |Eduardo Cadena    |            |
+|         |                                  |Santiago Arellano |            |
