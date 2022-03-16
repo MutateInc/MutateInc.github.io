@@ -27,6 +27,7 @@ Requisitos y Epics
 ## Métricas
 
 - Agile points.
+- Tiempo de creación del User Story.
 
 ## Auditor
 
