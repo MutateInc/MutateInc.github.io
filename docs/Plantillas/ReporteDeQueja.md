@@ -1,4 +1,8 @@
-# Plantilla reporte de queja
+# PL05-Plantilla reporte de queja
+
+## Objetivo
+
+Crear un estandar para la gestion de reportes de quejas
 
 ```md
 # Queja

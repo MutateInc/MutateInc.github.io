@@ -1,7 +1,11 @@
-# Plantilla de proceso
+# PL04-Plantilla de proceso
+
+## Objetivo
+
+Crear un estandar para la creación de procesos
 
 ```md
-# Proceso <título del proceso>
+# PR[##]-Proceso <título del proceso>
 
 ## Objetivo
 

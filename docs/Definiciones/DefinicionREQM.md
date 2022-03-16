@@ -1,4 +1,4 @@
-# Guía para la Gestión de Requerimientos - Versión 1.0
+# DE03-Definición de la Gestión de Requerimientos (REQM)
 
 ## Objetivos
 

@@ -1,4 +1,9 @@
-# Plantilla de minuta
+# PL02-Plantilla de minuta
+
+## Objetivo
+
+Crear un estandar para la creación y gestion de minutas
+
 
 ```md
 # Junta
