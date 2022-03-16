@@ -1,4 +1,4 @@
-# Guía de ejecución de auditorías
+# GU02-Guía de ejecución de auditorías
 
 ## Objetivo
 

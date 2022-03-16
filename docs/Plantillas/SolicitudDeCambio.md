@@ -1,4 +1,8 @@
-# Plantilla de solicitud de cambio
+# PL06-Plantilla de solicitud de cambio
+
+## Objetivo
+
+Crear un estandar para la creación de solicitides de cambio
 
 ```md
 # Solicitud de cambio

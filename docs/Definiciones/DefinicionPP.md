@@ -1,4 +1,4 @@
-# Guía del area de Project Planning
+# DE02-Definicion de la planificacion de projectos (PP)
 
 ## Objetivos
 
