@@ -62,7 +62,7 @@ Definir un plan de trabajo.
       <td>
         <ul>
           <li>Validar la propuesta de plan con los interesados.</li>
-          <li>Obtener compromiso de todos los interesados.</li>
+          <li>Obtener compromiso de todos los interesados a traves de la firma de todos los interesados.</li>
         </ul>
       </td>
       <td>Equipo del proyecto</td>
@@ -91,6 +91,4 @@ Definir un plan de trabajo.
 
 | Versión | Descripción                      | Responsables     | Fecha      |
 | ------- | -------------------------------- |------------------|------------|
-| 1.0     | Creación de proceso              |Fernando Vargas   | 15/03/2022 |
-|         |                                  |Eduardo Cadena    |            |
-|         |                                  |Santiago Arellano |            |
+| 1.0     | Creación de proceso              |Fernando Vargas, Eduardo Cadena, Santiago Arellano  | 15/03/2022 |

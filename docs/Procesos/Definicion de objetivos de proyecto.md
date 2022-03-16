@@ -37,6 +37,7 @@ Definición de ojetivos de un proyecto.
       <td>Definición</td>
       <td>
         <ul>
+         <li>Hacer el análisis necesario para asegurar que el objetivo es <strong>específico, medible, alcanzable, relevante y basado en tiempo</strong>(SMART).</li>
           <li>Definir objetivos de tipo SMART del proyecto a tratar.</li>
         </ul>
       </td>
@@ -76,7 +77,4 @@ Definición de ojetivos de un proyecto.
 
 | Versión | Descripción                      | Responsables     | Fecha      |
 | ------- | -------------------------------- |------------------|------------|
-| 1.0     | Creación de proceso              |Fernando Vargas   | 15/03/2022 |
-|         |                                  |Eduardo Cadena    |            |
-|         |                                  |Santiago Arellano |            |
-
+| 1.0     | Creación de proceso              |Fernando Vargas, Eduardo Cadena, Santiago Arellano  | 15/03/2022 |
