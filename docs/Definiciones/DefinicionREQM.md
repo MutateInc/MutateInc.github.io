@@ -1,4 +1,4 @@
-# Guía para la Gestión de Requerimientos - Versión 1.0
+# DE03-Definición de la Gestión de Requerimientos (REQM)
 
 ## Objetivos
 
@@ -85,7 +85,7 @@ Puede categorizarse como Completo / Por hacer / En desarrollo / Bloqueado
 - Realizar informes de impacto del cambio de requerimientos
 - Reportar el estado de los requerimientos
 
-En caso de que se requiera hacer cambios a uno o más requerimientos, se deberá completar la siguiente [plantilla](../Plantillas/Solicitud%20de%20cambio) para enviarla al cliente como evidencia del acuerdo establecido.  
+En caso de que se requiera hacer cambios a uno o más requerimientos, se deberá completar la siguiente [plantilla](../Plantillas/SolicitudDecambio) para enviarla al cliente como evidencia del acuerdo establecido.  
 Se deberá agregar una nueva entrada a la bitácora de cambio. Para más información, ver la sección de [Trazabilidad Bidireccional de Requerimientos](#mantener-una-trazabilidad-bidireccional-de-requerimientos).  
 Una vez se completa la solicitud de cambio, se recomienda enviarla al socio formador pidiendo que se confirme de recibido y aceptado. De esta manera, queda constancia de que se levantó la solicitud y el socio aprobó el cambio.
 

@@ -1,4 +1,4 @@
-# Proceso de junta
+# PR02-Proceso de junta
 
 ## Objetivo
 
@@ -39,5 +39,5 @@ para asegurar su efectividad.
 | ------- | -------------------------------------------- | -------------- | ---------- |
 | 1.0     | Creación del proceso                         | Pablo Valencia | 21/02/2022 |
 | 1.1     | Agregar versión, autores y cambiar plantilla | Pablo Valencia | 7/03/2022  |
-| 1.2     | Simplificación de proceso y nuevo formato    | Pablo Valencia | 12/03/2022 |
+| 2.0     | Simplificación de proceso y nuevo formato    | Pablo Valencia | 12/03/2022 |
 

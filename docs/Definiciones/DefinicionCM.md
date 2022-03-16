@@ -1,6 +1,6 @@
-# Definición de la Gestión de Configuración
+# DE01-Definición de la Gestión de Configuración (CM)
 
-## Objetivos:
+## Objetivos
 
 Establecer y mantener la integridad de los productos de trabajo utilizando la identificación de la configuración, el control de la configuración, el informe del estado de la configuración y las auditorías de la configuración.
 
@@ -82,12 +82,11 @@ Eric Fernando Torres Rodríguez
 
 Alberto Matute Beltrán
 
-## Bitácora de cambios
+## Versiones
 
-### Versión 1.1
+| Versión | Descripción      | Responsables   | Fecha      |
+| ------- | ---------------- | -------------- | ---------- |
+| 1.0     | Creación de guía | Alberto Matute Beltran | 7/03/2022 |
+| 1.1     | formato de lista modificado | Alberto Matute Beltran | 8/03/2022 |
+| 1.2     | formato de guia modificado | Alberto Matute Beltran | 16/03/2022 |
 
-- Formato modificado
-
-### Versión 1.0
-
-- Creación de Guia

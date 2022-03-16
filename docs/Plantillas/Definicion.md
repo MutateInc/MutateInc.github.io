@@ -1,19 +1,19 @@
-# PL01-Plantilla de guía
+# PL01-Plantilla de definicion
 
 ## Objetivo
 
-Crear un estandar para la creación de guias
+Estandar para la creacion de una definicion de area 
 
 ```md
-# GU[##]-Guía <título de la guía>
+# DE[##]-Definición de <título de la definición>
 
 ## Objetivo
 
-Describir los objetivos.
+Introducción o resumen de un proceso o area.
 
 ## Contenido
 
-Definir las secciones que sean necesarias para que el asset sirva como recurso de apoyo en un proceso.
+Definir las secciones que sean necesarias para que el asset sirva como introduccion y agregue valor a un area.
 
 ## Autores
 
@@ -21,8 +21,8 @@ Definir las secciones que sean necesarias para que el asset sirva como recurso d
 
 | Versión | Descripción                  | Responsables   | Fecha      |
 | ------- | ---------------------------- | -------------- | ---------- |
-| 1.0     | Creación de la plantilla     | Alberto Matute | 4/03/2022  |
-| 1.1     | Cambiar formato de plantilla | Pablo Valencia | 14/03/2022 |
+| 1.0     | Creación de la definicion     | Alberto Matute | 4/03/2022  |
+| 1.1     | Cambiar formato de definicion | Pablo Valencia | 14/03/2022 |
 
 ```
 ## Versiones

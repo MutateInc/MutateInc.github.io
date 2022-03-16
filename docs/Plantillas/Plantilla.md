@@ -1,21 +1,26 @@
-# PL01-Plantilla de guía
+# PL03-Plantilla de plantilla
 
 ## Objetivo
 
-Crear un estandar para la creación de guias
+Crear un estandar para la creación de plantillas
 
-```md
-# GU[##]-Guía <título de la guía>
-
-## Objetivo
-
-Describir los objetivos.
 
 ## Contenido
 
-Definir las secciones que sean necesarias para que el asset sirva como recurso de apoyo en un proceso.
+```md
+# PL[##]-Plantilla <título de la guía>
+
+## Objetivo
+
+Definicion breve del proposito de implementar el artefacto
+
+## Contenido
+
+'```md' de la plantilla o a travez de un link de un documento en la unidad compartida del departamento
 
 ## Autores
+
+Involucrados en la implementación del artefacto o asset
 
 ## Versiones
 
@@ -25,10 +30,9 @@ Definir las secciones que sean necesarias para que el asset sirva como recurso d
 | 1.1     | Cambiar formato de plantilla | Pablo Valencia | 14/03/2022 |
 
 ```
+
 ## Versiones
 
 | Versión | Descripción                  | Responsables   | Fecha      |
 | ------- | ---------------------------- | -------------- | ---------- |
-| 1.0     | Creación de la plantilla     | Alberto Matute | 4/03/2022  |
-| 1.1     | Cambiar formato de plantilla | Pablo Valencia | 14/03/2022 |
-| 1.2     | Se agrego autores y versiones | Alberto Matute | 16/03/2022 |
+| 1.0     | Creación de la plantilla     | Alberto Matute | 16/03/2022  |

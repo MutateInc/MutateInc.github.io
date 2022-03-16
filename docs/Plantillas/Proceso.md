@@ -1,4 +1,11 @@
-# Nombre del proceso
+# PL04-Plantilla de proceso
+
+## Objetivo
+
+Crear un estandar para la creación de procesos
+
+```md
+# PR[##]-Proceso <título del proceso>
 
 ## Objetivo
 
@@ -29,10 +36,12 @@ Objetivo del proceso
 - Métrica 1
 - Métrica 2
 - Métrica n
+```
 
 ## Versiones
 
 | Versión | Descripción                      | Responsables   | Fecha      |
 | ------- | -------------------------------- | -------------- | ---------- |
 | 1.0     | Creación de la plantilla         | Pablo Valencia | 4/03/2022  |
-| 1.1     | Cambiar formato de procedimiento | Pablo Valencia | 12/03/2022 |
+| 2.0     | Cambiar formato de procedimiento | Pablo Valencia | 12/03/2022 |
+| 2.1     | Poner plantilla en Markdown      | Pablo Valencia | 14/03/2022 |
