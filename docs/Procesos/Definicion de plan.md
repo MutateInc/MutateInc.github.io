@@ -24,15 +24,16 @@ Definir un plan de trabajo.
       <td>
         <ul>
             <li>Hacer un inventario de habilidades de los integrantes del equipo.</li>
-              <li>Escribir un listado de las competencias del equipo.</li>
-              <li>Hacer un inventario de recursos (tiempo, personas, etc.).</li>
-          <li>Realizar un plan de comunicación con los interesados del proyecto.</li>
+            <li>Escribir un listado de las competencias del equipo.</li>
+            <li>Hacer un inventario de recursos (tiempo, personas, etc.).</li>
+            <li>Realizar un plan de comunicación con los interesados del proyecto.</li>
+             <li>Identificar riesgos de proyecto</li>
         </ul>
       </td>
       <td>Equipo del proyecto</td>
       <td>
         <ul>
-          <li>PP 1.3, 2.4, 2.5, 2.6</li>
+          <li>PP 1.3, 2.4, 2.5, 2.6,2.2</li>
         </ul>
       </td>
     </tr>
