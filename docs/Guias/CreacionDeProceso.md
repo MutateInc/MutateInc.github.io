@@ -63,16 +63,65 @@ forma secuencial; sin embargo, las actividades de cada fase se pueden ejecutar
 sin un orden en específico. A continuación se muestra un fragmento del
 procedimiento para hacer un auditoría:
 
-| Fase                        | Descripción                                                                                                                        | Responsables         | Áreas CMMI |
-|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------|------------|
-| Planeación                  | Identificar los procesos a auditar y hacer una lista de las evidencias esperadas.                                                  | Equipo de auditorías | PPQA       |
-| Preparación de la auditoría | Contactar al equipo que será auditado para que preparen las evidencias y se defina una fecha para realizar la auditoría.           | Equipo de auditorías | PPQA       |
-| Auditorías                  | Realizar las entrevistas para verificar que los procesos son ejecutados apropiadamente. Registrar las irregularidades encontradas. | Equipo de auditorías | PPQA       |
 
+<table>
+    <thead>
+        <th>Fase</th>
+        <th>Descripción</th>
+        <th>Responsables</th>
+        <th>Áreas CMMI</th>
+    </thead>
+
+<tbody>
+    <tr>
+      <td>Planeación</td>
+      <td>
+        <ul>
+            <li> Identificar los procesos y/o productos de trabajo a auditar y hacer una lista de las evidencias y criterios</li>
+        </ul>
+      </td>
+      <td>Equipo de auditorías</td>
+      <td>
+        <ul>
+          <li>PPQA 1.1, 1.2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Preparación de la auditoría</td>
+      <td>
+        <ul>
+            <li>Contactar al equipo que será auditado para definir la fecha de la auditoría.</li>
+        </ul>
+      </td>
+      <td>Equipo de auditorías</td>
+      <td>
+        <ul>
+          <li>PPQA 1.1, 1.2</li>
+        </ul>
+      </td>
+    </tr>
+     <tr>
+      <td>Auditorías</td>
+      <td>
+        <ul>
+            <li>Realizar las entrevistas para verificar que los procesos son ejecutados apropiadamente y que los productos de trabajo cumplen con ciertos criterios.</li> 
+            <li> Registrar las irregularidades encontradas.</li>
+        </ul>
+      </td>
+      <td>Equipo de auditorías</td>
+      <td>
+        <ul>
+          <li>PPQA 1.1, 1.2</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Notar que cada fase cuenta una persona responsable o un equipo responsable.
 Cuando una fase realiza actividades específicas de áreas de CMMI, se incluye
-el nombre de las áreas en la última columna.
+el nombre de las áreas en la última columna y preferentemente el número de práctica que se está aplicando.
 
 #### Salidas
 
@@ -92,4 +141,5 @@ número de riegos mitigados.
 | 1.0     | Creación de guía                                             | Pablo Valencia | 4/03/2022  |
 | 1.1     | Agregar versionamiento correcto y cambiar parte de procedimiento | Pablo Valencia | 10/03/2022 |
 | 1.2     | Cambiar formato de la guía                                   | Pablo Valencia | 14/03/2022 |
+| 1.3     | Agregar tabla html en ejemplo                                | Fernando Vargas| 16/03/2022 | 
 
