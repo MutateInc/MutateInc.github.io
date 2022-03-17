@@ -6,7 +6,7 @@ Asistir a los integrantes del departamento para la definición de un WBS para re
 
 ## Contenido
 
-### ¿Qué es un BWS?
+### ¿Qué es un WBS?
 
 Herramienta de gestión de proyectos que presenta todo lo que un proyecto debe lograr en donde se organiza por diferentes niveles y muestra los elementos a los que se quiere llegar. 
 
