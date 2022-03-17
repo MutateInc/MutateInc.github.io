@@ -1,0 +1,36 @@
+# GU08-Guía para la creación de WBS
+
+## Objetivo
+
+Asistir a los integrantes del departamento para la definición de un WBS para realizar la planificación.
+
+## Contenido
+
+### ¿Qué es un BWS?
+
+Herramienta de gestión de proyectos que presenta todo lo que un proyecto debe lograr en donde se organiza por diferentes niveles y muestra los elementos a los que se quiere llegar. 
+
+### ¿Cuáles son los elementos fundamentales de un WBS?
+
+1. Identificar el objetivo de la planeación.
+2. Tener una lista del 100% de las actividades por realizar.
+3. Establecer prioridades para en el  desglose del trabajo.
+4. Crear los niveles de la WBS  (recomendable tener al menos 3).
+5. Tener identificados los entregables de cada actividad a realizar.
+6. Cada entregable debe ser único y debe limitarse de tamaño.
+
+### Consideraciones adicionales
+
+- Los elementos del WBS deben ser compatibles con la estructura y planeación de MUTATE.
+
+### Ejemplos:
+
+- [Ejemplo 1](https://drive.google.com/file/d/1NmGWiHIvHZNukF5xOTwBj6QyLO4K9boD/view?usp=sharing)
+- [Ejemplo 2](https://docs.google.com/spreadsheets/d/1ATD0K3IB4bZMdRp6TWPA6Rlh__baARTb/edit?usp=sharing&ouid=109052561936544765484&rtpof=true&sd=true)
+
+## Versiones
+
+| Versión | Descripción             | Responsables   | Fecha      |
+| ------- | ----------------------- | -------------- | ---------- |
+| 1.0     | Creación de guía        | Valeria Guerra | 17/03/2022 |
+| 1.1     | Correcciones de formato | Pablo Valencia | 17/03/2022 |
