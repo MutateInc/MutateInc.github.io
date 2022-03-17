@@ -1,4 +1,4 @@
-# Proceso de definición de un plan
+# PR06-Proceso de definición de un plan
 
 ## Objetivo
 
@@ -27,7 +27,7 @@ Definir un plan de trabajo.
             <li>Escribir un listado de las competencias del equipo.</li>
             <li>Hacer un inventario de recursos (tiempo, personas, etc.).</li>
             <li>Realizar un plan de comunicación con los interesados del proyecto.</li>
-             <li>Identificar riesgos de proyecto</li>
+            <li>Identificar riesgos de proyecto.</li>
         </ul>
       </td>
       <td>Equipo del proyecto</td>
@@ -77,19 +77,17 @@ Definir un plan de trabajo.
 
 ## Salidas
 
-- Plan de trabajo.
+- Plan de trabajo
 
 ## Métricas
 
-- Costo en horas por proyecto.
-
-- Tiempo de creación de plan.
-
-## Auditor
+- Costo en horas por proyecto
+- Tiempo de creación de plan
 
 ## Versiones
 
 | Versión | Descripción                      | Responsables     | Fecha      |
 | ------- | -------------------------------- |------------------|------------|
 | 1.0     | Creación de proceso              |Fernando Vargas, Eduardo Cadena, Santiago Arellano  | 15/03/2022 |
-| 1.1     | Agregar link a guía de WBS       |Pablo Valencia  | 17/03/2022 |
+| 1.1     | Errores de puntuación            |Pablo Valencia  | 15/03/2022 |
+| 1.2     | Agregar link a guía de WBS       |Pablo Valencia  | 17/03/2022 |
