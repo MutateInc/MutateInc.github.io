@@ -41,7 +41,7 @@ Definir un plan de trabajo.
       <td>Planificación</td>
       <td>
         <ul>
-          <li>Definir el WBS del plan.</li>
+          <li>Definir el [WBS](../Guias/CreacionDeWBS.md) del plan.</li>
           <li>Identificar la disponibilidad de los miembros del plan.</li>
           <li>Hacer una propuesta de solución (plan).</li>
           <li>Realizar el análisis y gestión de riesgos.</li>
@@ -90,3 +90,4 @@ Definir un plan de trabajo.
 | ------- | -------------------------------- |------------------|------------|
 | 1.0     | Creación de proceso              |Fernando Vargas, Eduardo Cadena, Santiago Arellano  | 15/03/2022 |
 | 1.1     | Errores de puntuación            |Pablo Valencia  | 15/03/2022 |
+| 1.2     | Agregar link a guía de WBS       |Pablo Valencia  | 17/03/2022 |
