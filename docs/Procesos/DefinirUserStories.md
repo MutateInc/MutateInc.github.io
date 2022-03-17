@@ -25,7 +25,14 @@ Requisitos y Epics
         <ol>
             <li>Asignar tu user story a algún Epic del proyecto.</li>
             <li>
-                Definir los siguientes campos del user story: ID, Quién lo va a usar, Objetivo del user story.
+                Definir los siguientes campos del user story: 
+                  <ol>
+                    <li>ID</li>
+                    <li>Quién lo va a usar</li>
+                    <li>Qué acción va a hacer</li>
+                    <li>Objetivo del user story.</li>
+                    <li>Con que propósito</li>
+                  </ol>
             </li>
             <li>Identificar dependencia de otros U.S. (si es que existen)</li>
             <li>Identificar si otros U.S. dependen de esta U.S y actualizar sus dependencias si es que existen.</li>
