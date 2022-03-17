@@ -1,12 +1,13 @@
-# Proceso para Generar Historias de Usuario
+# PR07-Proceso para Generar Historias de Usuario
 
 ## Objetivo
 
-Definir cómo generar un user story para la lista de U.S. de un proyecto.
+Definir cómo generar una user story para la lista de user stories de un proyecto.
 
 ## Entradas
 
-Requisitos y Epics
+- Requisito
+- Epics
 
 ## Procedimiento
 
@@ -23,19 +24,18 @@ Requisitos y Epics
       <td>Identificación</td>
       <td>
         <ol>
-            <li>Asignar tu user story a algún Epic del proyecto.</li>
+            <li>Asignar user story a algún epic del proyecto.</li>
             <li>
                 Definir los siguientes campos del user story: 
                   <ol>
                     <li>ID</li>
                     <li>Quién lo va a usar</li>
                     <li>Qué acción va a hacer</li>
-                    <li>Objetivo del user story.</li>
-                    <li>Con que propósito</li>
+                    <li>Para qué lo va a hacer</li>
                   </ol>
             </li>
-            <li>Identificar dependencia de otros U.S. (si es que existen)</li>
-            <li>Identificar si otros U.S. dependen de esta U.S y actualizar sus dependencias si es que existen.</li>
+            <li>Identificar dependencia de otras user stories (si es que existen).</li>
+            <li>Identificar si otras user stories dependen de esta y actualizar sus dependencias si es que existen.</li>
         </ol>
       </td>
       <td>Equipo del proyecto</td>
@@ -50,7 +50,7 @@ Requisitos y Epics
       <td>
         <ol>
             <li>Asignar Agile Points mediante planning poker.</li>
-            <li>Definir prioridad</li>
+            <li>Definir prioridad.</li>
         </ol>
       </td>
       <td>Equipo del proyecto</td>
@@ -65,17 +65,16 @@ Requisitos y Epics
 
 ## Salidas
 
-- User story lista para agregar a la lista de U.S. del proyecto.
+- User story lista para agregar a la lista de user stories del proyecto.
 
 ## Métricas
 
-- Agile points.
-- Tiempo de creación del User Story.
-
-## Auditor
+- Agile Points
+- Tiempo de creación de la user story
 
 ## Versiones
 
 | Versión | Descripción                      | Responsables     | Fecha      |
 | ------- | -------------------------------- |------------------|------------|
 | 1.0     | Creación de proceso              |Fernando Vargas, Eduardo Cadena, Santiago Arellano  | 15/03/2022 |
+| 1.1     | Errores de puntuación            |Pablo Valencia  | 15/03/2022 |
