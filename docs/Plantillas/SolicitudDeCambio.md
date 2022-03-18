@@ -15,7 +15,7 @@ Fecha:
 
 Persona que solicita la modificación:
 
-Descripción del cambio:
+Detalles técnicos del cambio:
 
 ```
 
@@ -25,3 +25,4 @@ Descripción del cambio:
 | ------- | -------------------------------- | -------------- | ---------- |
 | 1.0     | Creación de la plantilla         | Martín Noboa   | 3/03/2022  |
 | 1.1     | Cambiar formato de plantilla     | Pablo Valencia | 14/03/2022 |
+| 1.2     | Ajustes de la plantilla          | Jesús Olmos    | 17/03/2022 |
