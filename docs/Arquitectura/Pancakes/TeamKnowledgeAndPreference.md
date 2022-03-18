@@ -3,7 +3,7 @@
 Esta es una sección de la documentación que describe la experiencia y preferencia de las tecnologías que se utilizan en el proyecto.
 
 
-     |EXP           |PREF      |Calificación
+|EXP           |PREF      |Calificación
 -----|--------------|----------|-------------
 Lang |PHP           |JavaScript|JavaScript
 Front|HTML/CSS Plano|React     |React
