@@ -1,0 +1,16 @@
+# PL08-Plantilla de matriz de riesgos 
+
+## Objetivo
+Crear un estandar para la matriz de riesgos
+
+## Contenido
+- [Matriz de riesgos](https://docs.google.com/spreadsheets/d/1qgSzbzKlrI_cgjxv4Tgbl4k6M62lcCwwXj0VxzztyDg/edit?usp=sharing)
+
+## Autores
+Estefanía Ortiz
+
+## Versiones
+
+| Versión | Descripción                  | Responsables    | Fecha       |
+| ------- | ---------------------------- | --------------- | ----------- |
+| 1.0     | Creación de la plantilla     | Estefanía Ortiz | 10/03/2022  |

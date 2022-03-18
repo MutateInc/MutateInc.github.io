@@ -11,7 +11,7 @@
 
 ### Tabla comparativa para la creación de assets
 
-| Objetivo del Asset | Guía | Ploliticas | Procesos | Plantillas | Definición |
+| Objetivo del Asset | Guía | Politicas | Procesos | Plantillas | Definición |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | Su objetivo esta enfocado en el aprendizaje y/o acompañamento para completar un objetivo  | X |  |  |  |  |
 | Su objetivo esta enfocado en la declaración de reglas que se tienen que cumplir |  | X |  |  |  |
