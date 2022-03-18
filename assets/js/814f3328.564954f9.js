@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmm=self.webpackChunkmm||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Minutas de Mutate","permalink":"/blog/welcome"}]}')}}]);
