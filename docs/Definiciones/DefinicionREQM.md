@@ -124,11 +124,11 @@ En caso de que se necesite solucionar problemas técnicos, tomar acciones correc
 
 
 
-**Autores**
-
-Jesús Olmos Larios  
-Randy Hazael Jiménez Arriaga  
-Martin Noboa  
+| Versión | Descripción                                  | Responsables     | Fecha      |
+| ------- | -------------------------------------------- | ---------------- | ---------- |
+| 1.0     | Creación de la Política                      | J. Olmos, R. Jimenez, M. Noboa | 07/03/2022 |
+| 1.1     | Añadir contenido                        | J. Olmos, R. Jimenez, M. Noboa| 15/03/2022 |
+ 
 
 [^1]: Las necesidades, expectativas, restricciones e interfaces de las partes interesadas se recopilan y traducen en requisitos de cliente.
 [^2]: Los requisitos de cliente se analizan conjuntamente con el desarrollo
