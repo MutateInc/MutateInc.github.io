@@ -1,4 +1,4 @@
-# PL05-Plantilla reporte de queja
+# PL06-Plantilla reporte de queja
 
 ## Objetivo
 
