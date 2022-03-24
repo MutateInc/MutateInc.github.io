@@ -33,5 +33,5 @@ y elige la seccion en la que quieras crear tu documento.
 
 ### ⚠️ Las ramas se deben borrar despues de ser mergeadas
 
-## Autores
+## Autore
 - [@BernardoEstrada](https://www.github.com/BernardoEstrada)
