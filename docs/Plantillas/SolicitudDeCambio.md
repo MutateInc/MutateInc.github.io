@@ -1,4 +1,4 @@
-# PL06-Plantilla de solicitud de cambio
+# PL07-Plantilla de solicitud de cambio
 
 ## Objetivo
 

@@ -1,4 +1,4 @@
-# PR09-Proceso de institucionalización de assets
+# PR03-Proceso de institucionalización de assets
 
 ## Objetivo
 
@@ -15,6 +15,7 @@
     <thead>
         <th>Fase</th>
         <th>Descripción</th>
+        <th>Responsable</th>
         <th>Áreas CMMI</th>
     </thead>
 

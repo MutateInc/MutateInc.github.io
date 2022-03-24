@@ -1,4 +1,4 @@
-# GU08-Guía para la creación de WBS
+# GU10-Guía para la creación de WBS
 
 ## Objetivo
 
