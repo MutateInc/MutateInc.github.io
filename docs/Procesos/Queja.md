@@ -1,12 +1,12 @@
-# PR04-Proceso de quejas
+# PR04-Proceso de dialogo de conflictos
 
 ## Objetivo
 
-Gestionar las quejas realizadas por parte de miembros del equipo de Mutate con respecto a potenciales faltas al código de ética.
+Gestionar las observaciones realizadas por parte de miembros del equipo de Mutate con respecto a potenciales faltas al código de ética.
 
 ## Entradas
 
-- Queja presentada en [buzón digital](https://forms.gle/Ew3GVu3yG4Hczxpw6)
+- Observación presentada en [buzón digital](https://forms.gle/Ew3GVu3yG4Hczxpw6)
 
 ## Procedimiento
 
@@ -33,3 +33,4 @@ Gestionar las quejas realizadas por parte de miembros del equipo de Mutate con r
 | 1.0     | Creación del proceso        | Emilio Rivas | 12/03/2022  |
 | 1.1     | Cambiar formato de procedimiento | Emilio Rivas | 14/03/2022 |
 | 1.2     | Agregar fase para definir responsables | Pablo Valencia | 15/03/2022 |
+| 1.3     | Cambio de nombre de proceso y objetivo | Emilio Rivas, Emilio Aguilera | 23/03/2022 |
