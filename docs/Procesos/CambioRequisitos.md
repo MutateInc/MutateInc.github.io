@@ -1,0 +1,37 @@
+# PR10-Proceso de cambios a requisitos
+
+## Objetivo
+
+Gestionar los cambios a los requisitos cuando estos evolucionan con el objetivo de alinearlos con el plan y producto final del proyecto.
+
+## Entradas
+
+- Solicitud de cambio a requisito por parte de un miembro del equipo o socio formador.
+
+## Procedimiento
+
+| Fase          | Descripción         | Responsables        | Áreas del CMMI      |
+| ------------- | ------------------- | ------------------- | ------------------- |
+| Petición del cambio | Se generará una solicitud de cambio utilizando la [“Plantilla de solución de cambio”](../Plantillas/SolicitudDeCambio.md) | TM | REQM |
+| Trazabilidad bidireccional de cambios | Se actualiza la [Bitácora de requerimientos](https://docs.google.com/spreadsheets/d/1LGF7aW_L54DV-QvFiYJLFnpFLuG8RIRJVyRIqGL7lYI/edit#gid=0) y sus cambios siguiendo su formato establecido.| TM | REQM |
+| Evaluación del impacto del cambio | Se realizará una [evaluación detallada del impacto del cambio](../Plantillas/EvaluacionImpacto) para el proyecto. Con esto se definirá el valor del cambio y su impacto, posteriormente se agregara el cambio al plan de trabajo y se destinarán los recursos necesarios para realizarlo. En caso de ser rechazado se hará un reporte explicando los riesgos que presenta al proyecto. | PO, AO, TL | REQM |
+| Comunicación con el equipo | Los miembros del equipo deberán de estar informados acerca de la evaluación del impacto del cambio y de los respectivos requerimientos del mismo, esto para que todos estén enterados de los posibles cambios a realizar. | PO | REQM |
+| Veredicto | La decisión de aceptar o rechazar el cambio debe de ser justificada por medio de la evaluación del impacto del cambio, ya que en base a ella se define la viabilidad del cambio. | PO | REQM |
+| Aceptación | Se le enviará al socio formador un correo en el cual haga constar que se realizará un cambio (ya sea solicitado por el mismo socio o por miembros del equipo) y que se espera la aprobación del socio para realizarla. | PO | |
+
+## Salidas
+
+- Veredicto de aprobación de cambio
+- Fecha de veredicto
+- Ajuste a plan de trabajo (en caso de aprobación)
+
+
+## Métricas
+
+- Número de cambios solicitados, aceptados y negados.
+
+## Versiones
+
+| Versión | Descripción                      | Responsables   | Fecha      |
+| ------- | -------------------------------- | -------------- | ---------- |
+| 1.0     | Creación del proceso        | Emilio Rivas | 24/03/2022  |
