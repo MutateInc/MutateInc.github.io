@@ -1,0 +1,27 @@
+# PL09-Plantilla de evaluación de impacto de cambio a requisito
+
+## Objetivo
+
+Crear un estandar para la evaluación de impacto de cambio a requisito
+
+```md
+# Solicitud de cambio
+
+¿El cambio aporta valor a la solución?
+
+¿Es necesario para cumplir los objetivos del proyecto?
+
+¿Es posible implementarlo en cuanto al aspecto técnico?
+
+¿Compromete el plan de trabajo del equipo?
+
+¿Presenta un alto impacto a las funcionalidades actuales del sistema?
+
+
+```
+
+## Versiones
+
+| Versión | Descripción                      | Responsables   | Fecha      |
+| ------- | -------------------------------- | -------------- | ---------- |
+| 1.0     | Creación  de la plantilla          | Emilio Rivas   | 24/03/2022 |
