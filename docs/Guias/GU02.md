@@ -4,7 +4,7 @@
 
 Asistir a los equipos con información adicional sobre cómo se pueden ejecutar
 las auditorías para asegurar su efectividad y la correcta ejecución del
-[Proceso de auditorías](../Procesos/Auditorias.md).
+[Proceso de auditorías](../Procesos/PR01.md).
 
 ## Contenido
 
@@ -32,7 +32,7 @@ tangible del proceso.
 ### ¿Cómo se ejecuta una auditoría?
 
 A continuación se describe cómo se puede realizar una auditoría siguiendo cada
-fase del [Proceso de auditorías](../Procesos/Auditorias.md).
+fase del [Proceso de auditorías](../Procesos/PR01.md).
 
 #### Planeación
 
