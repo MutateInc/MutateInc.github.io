@@ -20,6 +20,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
             "https://github.com/MutateInc/manual-de-operaciones/tree/main/",
@@ -66,12 +67,6 @@ const config = {
         links: [
           {
             title: "Docs",
-            items: [
-              {
-                label: "Tutorial",
-                to: "/docs/welcome",
-              },
-            ],
           },
           {
             title: "Community",
