@@ -44,6 +44,10 @@ En un periodo de 15 semanas, terminar el 100% de los proyectos del programa a tr
 ## Organigrama
 
 ![Organigrama de Mutate](/img/organigrama.png)
+
+## Mapa de procesos
+
+[Mapa de procesos](https://app.diagrams.net/#G1XP29gBirYzY_WuWM-eaHaefx2BdzLPDs)
 ## Agradecimientos
 
 El contenido de esta wiki está basado en gran parte en el legado de todos los departamentos formados en semestres anteriores.
